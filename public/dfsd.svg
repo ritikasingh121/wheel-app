@@ -1,0 +1,8 @@
+<svg width="700" height="660">
+  <defs>
+    <pattern id="image" x="0" y="0" patternUnits="userSpaceOnUse" height="1" width="1">
+      <image x="0" y="0" xlink:href="blue.ico"></image>
+    </pattern>
+  </defs>
+  <circle id='top' cx="180" cy="120" r="80" fill="url(#image)"/>
+</svg>

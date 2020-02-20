@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90pt" height="90pt" viewBox="0 0 90 90" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="90" height="90" style="fill:rgb(0%,0%,0%);fill-opacity:0.85098;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect width="90" height="90"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 63.773438 24.0625 C 57.21875 19.722656 48.9375 19.460938 42.03125 23.710938 C 42.011719 23.730469 41.976562 23.75 41.960938 23.765625 C 51.835938 20.796875 61.015625 31.289062 61.015625 45 C 61.015625 58.675781 51.855469 69.203125 41.976562 66.234375 C 48.886719 70.523438 57.234375 70.296875 63.808594 65.917969 C 69.695312 60.625 73.109375 52.980469 73.109375 45 C 73.125 37.019531 69.714844 29.410156 63.773438 24.0625 Z M 63.773438 24.0625 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(80%,5.882353%,8.627451%);fill-opacity:1;" d="M 90 45 C 90 69.851562 69.851562 90 45 90 C 20.148438 90 0 69.851562 0 45 C 0 20.148438 20.148438 0 45 0 C 69.851562 0 90 20.148438 90 45 Z M 90 45 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 45 16.875 C 29.496094 16.875 16.875 29.496094 16.875 45 C 16.875 60.046875 28.632812 72.386719 43.664062 73.089844 C 48.9375 73.335938 54.085938 72.125 58.605469 69.609375 C 49.992188 72.15625 40.867188 69.011719 35.101562 61.523438 C 31.132812 56.847656 29.617188 50.660156 29.617188 44.3125 C 29.761719 38.195312 31.761719 32.414062 35.121094 28.441406 C 40.957031 20.867188 50.148438 17.859375 58.605469 20.375 C 54.507812 18.105469 49.867188 16.875 45.105469 16.859375 "/>
+<use xlink:href="#surface6" mask="url(#mask0)"/>
+</g>
+</svg>

@@ -1,0 +1,11 @@
+
+
+.Wheel_background {
+    content: " ";
+    background-image: url("../../backgroundImage.jpeg");
+    background-repeat: no-repeat;
+    /* position: absolute; */
+    /* height: 17px; width: 18px; */
+     /* top: 28%; left: 22%;     */
+  }
+
